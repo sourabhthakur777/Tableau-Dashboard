@@ -7,8 +7,8 @@ Problem Statement:
 
 Create a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset Datasets 
 
-Primary Dataset – ![image](https://user-images.githubusercontent.com/113992933/226186735-e8244362-1846-420c-b619-87bdfd90e556.png)
-Insurance Sample Dataset
+Primary Dataset – Insurance Sample Dataset ![image](https://user-images.githubusercontent.com/113992933/226186735-e8244362-1846-420c-b619-87bdfd90e556.png)
+
 
 Secondary Dataset – 🌐 Global Financial Development Database
 
